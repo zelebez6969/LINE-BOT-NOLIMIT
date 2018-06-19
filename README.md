@@ -11,8 +11,8 @@ How to install:
 ```
 python2 bot.py
 ```
-#==============
-``` kenapa di ENC ?
+``` 
+kenapa di ENC ?
 biar kalian bisa belajar menghargai usaha orang lain... disini kalian tinggal menggunakannya....
 ```
 #thankz
